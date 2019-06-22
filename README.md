@@ -1,3 +1,3 @@
 # ROS Workspace
 
-ROS workspace utilizing Gazebo simulation environment
+ROS programming exercise showing examples on how to use Publisher, Subscriber, ServiceServer and ServiceClient
